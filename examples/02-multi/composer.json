@@ -1,0 +1,8 @@
+{
+    "require": {
+        "radar/adr": "1.x-dev",
+        "zendframework/zend-diactoros": "^1.1"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
