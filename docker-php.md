@@ -80,6 +80,7 @@ trans. (used with object), dockerized, dockerizing.
 - I've tried to come up with a definition for you
 - converting implies making changes to our apps themselves
   - to some extent true, but usually its a matter of specifying platform deps
+  - like composer...
   - already following principles of 12 factor app? (12factor.net)
   - (methodology for building software-as-a-service apps)
   - fits very well with the Docker philosophy: thinking of containers in terms of services
